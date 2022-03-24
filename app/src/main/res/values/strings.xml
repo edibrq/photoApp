@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">photoApp</string>
+    <string name="titleButton">hello</string>
+
+    <string-array name="grid_array">
+        <item>7x7</item>
+        <item>5x5</item>
+        <item>3x3</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">GalleryFragment</string>
+    <string name="take_picture">take picture</string>
+</resources>
